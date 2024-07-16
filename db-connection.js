@@ -31,3 +31,6 @@ module.exports = db;
 //     console.error(`Failed to clear collection ${collectionName}:`, error);
 //   }
 // }
+
+// clearCollection("issues");
+// clearCollection("projects");
